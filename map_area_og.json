@@ -153,7 +153,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":102,
          "x":0,
          "y":0
@@ -171,7 +171,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":102,
          "x":0,
          "y":0
@@ -182,12 +182,6 @@
          "id":10,
          "name":"exit_treppe",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/5byfive\/5b5.github.io\/wa_area\/map_area_eg.json#start_treppe"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":102,
